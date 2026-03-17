@@ -18,7 +18,7 @@ Hi — I'm Dev Rangoonwala. I build performant, accessible web applications and 
 
 
 ## Tech Stack & Tools
-- Languages: JavaScript, TypeScript, Python, Go (familiar)
+- Languages: JavaScript, TypeScript, Python, Java, Swift
 - Frontend: React, Next.js, Vite, Tailwind CSS
 - Backend: Node.js, Express, FastAPI
 - APIs: REST, GraphQL (Apollo)
