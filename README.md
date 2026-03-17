@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-devrangoonwala.com-0A66C2?style=flat&logo=google-chrome&logoColor=white)](https://devrangoonwala.com) [![Twitter](https://img.shields.io/badge/twitter-@devrangoonwala-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/devrangoonwala) [![LinkedIn](https://img.shields.io/badge/linkedin-devrangoonwala-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/devrangoonwala) [![GitHub](https://img.shields.io/badge/github-devrangoonwala-181717?style=flat&logo=github&logoColor=white)](https://github.com/devrangoonwala)
 
-Full-Stack Software Engineer • Open-source enthusiast • Building reliable, maintainable web platforms
+Full-Stack Software Engineer • iOS Developer • Open-source enthusiast • Building reliable, maintainable web platforms
 
 ---
 
